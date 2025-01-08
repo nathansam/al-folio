@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@tailwindcss/typography": "^0.5.9",
+    "@tailwindcss/typography": "^0.5.16",
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.4",
     "mermaid.cli": "^0.5.1",
